@@ -30,11 +30,10 @@ function iLoveTheBeatles(number) {
   
   var newarray = []
   
-  var i = 0
   do {
     newarray.push("I love the Beatles!")
-    i++
-  }while (i<15)
+    number++
+  }while (number<15)
   
   
   return newarray
