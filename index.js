@@ -3,7 +3,7 @@ function theBeatlesPlay(musicians, instruments){
   var newarray = []
   
   
-  for 
+  for (var i = 0, )
   
   
   
