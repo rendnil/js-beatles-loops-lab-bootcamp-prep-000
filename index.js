@@ -22,5 +22,5 @@ function johnLennonFacts(facts) {
     
     
   }
-  return facts
+  return facts;
 }
