@@ -9,6 +9,8 @@ function theBeatlesPlay(musicians, instruments){
   
   
   }
-  
+  return newarray
   
   }
+  
+  
